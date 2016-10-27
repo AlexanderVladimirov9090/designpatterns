@@ -19,32 +19,17 @@ out/
 .idea/misc.xml
 .idea/jsLibraryMappings.xml
 .idea
-
+*/.gradle
+*/build
 # File-based project format:
 *.iws
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-/objectser/gradle/
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> ff16dd3...  Ok
-/singleton/
-/builderpattern/gradlew
-/builderpattern/gradlew.bat
-/builderpattern/
-<<<<<<< HEAD
-<<<<<<< HEAD
-/objectser/gradlew
-/objectser/gradlew.bat
-/objectser/build/
-/objectser/.gradle/
-=======
->>>>>>> e78e54d... Done
-=======
->>>>>>> ff16dd3...  Ok
-=======
-/objectser/gradlew
-/objectser/gradlew.bat
->>>>>>> 49d6bc2... Ok.
+
+
+/singleton/gradle/
+/singleton/gradlew
+/singleton/gradlew.bat
+/singleton/.gradle/
+/objectser/
