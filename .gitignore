@@ -26,8 +26,14 @@ out/
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-/observerpattern/
-/adapterpattern/gradle/
-/adapterpattern/.gradle/
+/observerpattern/gradle/
+/builderpattern/gradlew
+/builderpattern/gradlew.bat
+/observerpattern/.gradle/
 /adapterpattern/gradlew.bat
+/adapterpattern/.gradle/
 /adapterpattern/gradlew
+/builderpattern/.gradle/
+/observerpattern/build/
+/builderpattern/gradle/
+/adapterpattern/gradle/
